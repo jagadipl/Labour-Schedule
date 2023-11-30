@@ -1,0 +1,19 @@
+table{
+    width:100%;
+   border-collapse: collapse;
+}
+th,td{
+    border:1px solid black;
+    padding: 5px;
+}
+.yellow{
+    background-color: yellow;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.green-cell{
+    background-color: green;
+}
+.red-cell{
+    background-color: red;
+}

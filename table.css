@@ -1,6 +1,7 @@
 table{
     width:100%;
    border-collapse: collapse;
+   width: 800px;
 }
 th,td{
     border:1px solid black;
@@ -20,4 +21,7 @@ th,td{
 tr{
      height:50px ;
      width: 50px;
+    }
+    section{
+        font-size: 20px;
     }
